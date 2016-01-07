@@ -1,2 +1,2 @@
 # CTempConvert
-A simple C temperature conversion program using the unsafe scanf.
+A simple temperature conversion program created in C using the unsafe scanf.
